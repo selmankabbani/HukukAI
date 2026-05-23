@@ -1,0 +1,2 @@
+# HukukAI
+Avukatların kullanabileceği AI
